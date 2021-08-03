@@ -1,0 +1,1 @@
+python rdkit_desault.py -i drug_smiles_standard.smi -o drug_smiles_standard_out.smi
